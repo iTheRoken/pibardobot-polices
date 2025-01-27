@@ -1,27 +1,50 @@
-**Términos de Servicio de PibardoBot**
+# TÉRMINOS DE SERVICIO (TOS)
 
-**1. Aceptación de los Términos**
+## 1. Introducción
+Bienvenido a PibardoBot. Al usar nuestro bot, aceptas estar legalmente vinculado a estos Términos de Servicio. Estos términos son un acuerdo entre tú (el usuario) y el creador de PibardoBot (en adelante, "nosotros", "nuestro"). Por favor, léelos detenidamente antes de interactuar con el bot.
 
-Al usar PibardoBot, aceptas cumplir con estos Términos de Servicio. Si no estás de acuerdo, por favor no utilices el bot.
+Si no estás de acuerdo con estos términos, abstente de usar PibardoBot. Nos reservamos el derecho de actualizar estos términos en cualquier momento sin previo aviso, aunque haremos todo lo posible por notificar a los usuarios sobre cambios importantes.
 
-**2. Uso del Bot**
+## 2. Acceso y Uso del Bot
+2.1 Requisitos
+Debes ser mayor de 13 años para usar PibardoBot, en cumplimiento con las políticas de Discord y las leyes internacionales de privacidad infantil.
+Asegúrate de tener permiso del propietario del servidor para agregar y utilizar el bot.
+2.2 Propósito del Bot
+PibardoBot es una herramienta diseñada principalmente para:
 
-El bot está diseñado para proporcionar funciones como reproducción de música y moderación de servidores en Discord.
+Reproducir música de plataformas como YouTube.
+Moderar servidores de Discord (características en desarrollo).
+El bot no está destinado para propósitos ilegales o no autorizados.
 
-No debes utilizar el bot para actividades ilegales, maliciosas o que violen las normas de Discord o de tu servidor.
+2.3 Restricciones de Uso
+No usarás el bot para infringir derechos de propiedad intelectual, acosar a otros usuarios o realizar actividades ilícitas.
+No intentarás descompilar, modificar, o clonar PibardoBot.
+El uso excesivo o malintencionado del bot podría llevar a la restricción o prohibición de tu acceso.
 
-El uso del bot es gratuito, pero puede estar sujeto a futuras actualizaciones que cambien sus características o funcionalidades.
+## 3. Funciones y Comandos
+El bot utiliza el prefijo ! para interactuar. Algunos de los comandos disponibles son:
 
-**3. Limitaciones de Responsabilidad**
+!reproducir [URL o nombre de canción]: Comienza a reproducir música.
+!salir: Desconecta el bot del canal de voz.
+Otros comandos adicionales relacionados con moderación estarán disponibles en el futuro.
+Ten en cuenta que las funciones pueden cambiar o dejar de estar disponibles temporal o permanentemente.
 
-PibardoBot se proporciona "tal cual" y no garantiza disponibilidad o funcionalidad ininterrumpida.
+## 4. Exclusión de Responsabilidad
+No somos responsables por errores en las funciones del bot o por interrupciones en el servicio.
+La precisión y disponibilidad de las búsquedas musicales dependen de servicios de terceros (e.g., YouTube).
+No garantizamos que las funciones del bot sean adecuadas para tus necesidades específicas.
 
-No nos hacemos responsables por daños, pérdidas de datos o problemas que surjan por el uso del bot.
+## 5. Suspensión y Terminación del Servicio
+Nos reservamos el derecho de suspender temporalmente o desactivar permanentemente el bot en tu servidor o globalmente si:
 
-**4. Privacidad**
+Se detecta un uso indebido.
+El bot causa conflictos técnicos o violaciones de políticas de Discord.
 
-Al utilizar PibardoBot, reconoces que este puede procesar datos básicos de Discord (como nombres de usuario, mensajes o IDs de servidores) para cumplir con sus funcionalidades. Para más detalles, consulta la Política de Privacidad.
+## 6. Modificaciones al Bot y los Términos
+Podemos actualizar el bot y sus funciones regularmente. Esto incluye la introducción de nuevas características o la eliminación de otras. Asimismo, estos Términos pueden ser modificados en cualquier momento.
 
-**5. Cambios en los Términos**
+## 7. Límites de Responsabilidad
+Bajo ninguna circunstancia seremos responsables de daños directos, indirectos, incidentales, especiales o consecuentes derivados del uso de PibardoBot.
 
-Nos reservamos el derecho de modificar estos Términos en cualquier momento. Te notificaremos de cambios importantes a través de los medios disponibles.
+## 8. Contacto
+Si tienes dudas sobre los Términos de Servicio, contáctanos directamente a través de los métodos provistos en Discord o en nuestra documentación oficial.
