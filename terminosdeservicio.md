@@ -1,14 +1,17 @@
 # TÉRMINOS DE SERVICIO (TOS)
 
 ## 1. Introducción
+
 Bienvenido a PibardoBot. Al usar nuestro bot, aceptas estar legalmente vinculado a estos Términos de Servicio. Estos términos son un acuerdo entre tú (el usuario) y el creador de PibardoBot (en adelante, "nosotros", "nuestro"). Por favor, léelos detenidamente antes de interactuar con el bot.
 
 Si no estás de acuerdo con estos términos, abstente de usar PibardoBot. Nos reservamos el derecho de actualizar estos términos en cualquier momento sin previo aviso, aunque haremos todo lo posible por notificar a los usuarios sobre cambios importantes.
 
 ## 2. Acceso y Uso del Bot
+
 2.1 Requisitos
 Debes ser mayor de 13 años para usar PibardoBot, en cumplimiento con las políticas de Discord y las leyes internacionales de privacidad infantil.
 Asegúrate de tener permiso del propietario del servidor para agregar y utilizar el bot.
+
 2.2 Propósito del Bot
 PibardoBot es una herramienta diseñada principalmente para:
 
