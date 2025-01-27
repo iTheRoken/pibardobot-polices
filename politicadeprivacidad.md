@@ -4,12 +4,14 @@
 La privacidad de nuestros usuarios es fundamental para nosotros. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos tus datos al interactuar con PibardoBot.
 
 ## 2. Información Recopilada
+
 2.1 Información Automática
 Cuando usas PibardoBot, se recopila información básica de Discord, incluyendo:
 
 Tu ID de usuario y nombre de usuario (tag).
 ID del servidor donde el bot está activo.
 ID del canal y mensajes necesarios para procesar comandos.
+
 2.2 Información de Terceros
 Cuando usas comandos musicales (e.g., !reproducir), PibardoBot interactúa con APIs de terceros como YouTube. No almacenamos directamente los resultados de estas búsquedas.
 
