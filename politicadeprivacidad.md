@@ -5,13 +5,13 @@ En PibardoBot, valoramos tu privacidad y nos comprometemos a proteger tu informa
 
 ## **2. Información que Recopilamos**
 
-###**2.1 Información de Usuario**
+### **2.1 Información de Usuario**
 Recopilamos información básica de Discord necesaria para el funcionamiento del bot, como:
 
 Tu ID de usuario de Discord.
 Tu nombre de usuario y discriminador (por ejemplo, Usuario#1234).
 
-###**2.2 Información del Servidor**
+### **2.2 Información del Servidor**
 
 Cuando agregas y utilizas PibardoBot en un servidor, recopilamos:
 
@@ -19,14 +19,14 @@ El ID del servidor.
 El nombre del servidor.
 Configuraciones específicas relacionadas con la personalización del bot.
 
-###**2.3 Información de Comandos y Mensajes**
+### **2.3 Información de Comandos y Mensajes**
 
 Cuando interactúas con PibardoBot, procesamos:
 
 Los mensajes y comandos enviados al bot.
 Metadatos como marcas de tiempo y el canal de origen.
 
-###**2.4 Información de Terceros**
+### **2.4 Información de Terceros**
 
 PibardoBot utiliza servicios de terceros, como APIs de YouTube, para proporcionar funcionalidades como la reproducción de música. Al usar estos comandos, los datos transmitidos (como nombres de canciones o URLs) pueden ser procesados temporalmente por estos servicios.
 
