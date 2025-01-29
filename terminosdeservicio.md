@@ -19,7 +19,7 @@ PibardoBot está diseñado para proporcionar las siguientes funcionalidades:
 Reproducción de Música: Permite a los usuarios reproducir contenido de audio desde plataformas de terceros, como YouTube.
 Moderación del Servidor: Ofrece herramientas para ayudar en la gestión y moderación de servidores de Discord (funcionalidades en desarrollo).
 
-**3.1**. Restricciones de Uso
+### **3.1**. Restricciones de Uso
 
 Al interactuar con PibardoBot, te comprometes a no:
 
