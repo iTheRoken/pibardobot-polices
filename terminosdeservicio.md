@@ -1,9 +1,10 @@
-#**TÉRMINOS DE SERVICIO (TOS)**
+# **TÉRMINOS DE SERVICIO (TOS)**
 
-##**1. Introducción**
+## **1. Introducción**
 
 Bienvenido a PibardoBot. Al utilizar nuestro bot, aceptas cumplir y estar legalmente vinculado a estos Términos de Servicio. Este acuerdo establece las condiciones bajo las cuales puedes interactuar con PibardoBot. Si no estás de acuerdo con estos términos, te solicitamos que te abstengas de utilizar el bot. Nos reservamos el derecho de modificar estos términos en cualquier momento. Aunque haremos esfuerzos razonables para notificarte sobre cambios significativos, es tu responsabilidad revisar periódicamente este documento para estar al tanto de las actualizaciones.
-##**2. Elegibilidad**
+
+## **2. Elegibilidad**
 
 Para utilizar PibardoBot, debes:
 
@@ -11,11 +12,11 @@ Ser mayor de 13 años, en cumplimiento con las políticas de Discord y las leyes
 Contar con el permiso del propietario o administrador del servidor de Discord donde deseas agregar y utilizar el bot.
 Tener los permisos necesarios para ejecutar comandos específicos (algunos comandos requieren permisos de administrador o moderador).
 
-##**3. Funcionalidades Principales**
+## **3. Funcionalidades Principales**
 
 PibardoBot ofrece las siguientes funcionalidades principales:
 
-###**3.1. Sistema de Música**
+### **3.1. Sistema de Música**
 
 Reproducción de audio desde plataformas como YouTube
 Control de reproducción (pausar, reanudar, saltar)
@@ -23,7 +24,7 @@ Sistema de cola de reproducción
 Control mediante botones interactivos
 Visualización de información de la canción actual
 
-###**3.2. Sistema de Moderación**
+### **3.2. Sistema de Moderación**
 
 Registro de actividad del servidor (logs)
 Protección contra spam
@@ -32,7 +33,7 @@ Limpieza de mensajes
 Protección contra enlaces no deseados
 Registro de actividad en canales de voz
 
-###**3.3. Sistemas de Engagement**
+### **3.3. Sistemas de Engagement**
 
 Sistema de niveles y experiencia
 Roles por reacción
@@ -40,16 +41,16 @@ Sistema de bienvenidas personalizado
 Sistema de encuestas
 Sistema de recordatorios
 
-##**4. Comandos y Permisos**
+## **4. Comandos y Permisos**
 
-###**4.1. Comandos Básicos**
+### **4.1. Comandos Básicos**
 
 !ayuda: Muestra el menú de ayuda con todos los comandos disponibles
 !tos: Muestra los Términos de Servicio
 !privacidad: Muestra la Política de Privacidad
 !serverinfo: Muestra información detallada del servidor
 
-###**4.2. Comandos de Música**
+### **4.2. Comandos de Música**
 
 !reproducir [canción/URL]: Reproduce música
 !pausar: Pausa la reproducción
@@ -57,7 +58,7 @@ Sistema de recordatorios
 !saltar: Salta a la siguiente canción
 !salir: Desconecta el bot del canal de voz
 
-###**4.3. Comandos de Moderación (Requieren permisos específicos)**
+### **4.3. Comandos de Moderación (Requieren permisos específicos)**
 
 !setlogs [#canal]: Configura el canal de logs
 !warn [@usuario] [razón]: Advierte a un usuario
@@ -66,7 +67,7 @@ Sistema de recordatorios
 !e-links: Activa/desactiva la protección contra enlaces
 !i-voice: Activa/desactiva el registro de actividad en canales de voz
 
-###**4.4. Comandos de Engagement**
+### **4.4. Comandos de Engagement**
 
 !nivel: Muestra el nivel y experiencia de un usuario
 !poll [pregunta]: Crea una encuesta
@@ -74,16 +75,16 @@ Sistema de recordatorios
 !setwelcome [#canal] [mensaje]: Configura el mensaje de bienvenida
 !reactionrole [@rol] [emoji] [mensaje]: Configura roles por reacción
 
-##**5. Restricciones y Políticas de Uso**
+## **5. Restricciones y Políticas de Uso**
 
-###**5.1. Restricciones Generales**
+### **5.1. Restricciones Generales**
 
 No usar el bot para distribuir contenido ilegal o inapropiado
 No abusar de los comandos para sobrecargar el sistema
 No intentar explotar bugs o vulnerabilidades
 No usar el bot para acosar o discriminar a otros usuarios
 
-###**5.2. Políticas de Moderación**
+### **5.2. Políticas de Moderación**
 
 Las advertencias son acumulativas y pueden resultar en:
 
@@ -95,28 +96,28 @@ Las advertencias son acumulativas y pueden resultar en:
 El sistema anti-spam puede resultar en timeouts automáticos
 La protección contra enlaces puede eliminar mensajes automáticamente
 
-###**5.3. Límites y Cooldowns**
+### **5.3. Límites y Cooldowns**
 
 Sistema de experiencia: 60 segundos de cooldown entre ganancia de XP
 Límite de 100 mensajes para el comando de limpieza
 Límites razonables en la cola de música y duración de canciones
 
-##**6. Privacidad y Datos**
+## **6. Privacidad y Datos**
 
-###**6.1. Datos Recolectados**
+### **6.1. Datos Recolectados**
 
 IDs de servidores y usuarios para funcionalidad básica
 Mensajes procesados para moderación y comandos
 Estadísticas de uso para niveles y experiencia
 Configuraciones específicas del servidor
 
-###**6.2. Uso de Datos**
+### **6.2. Uso de Datos**
 
 Los datos se utilizan exclusivamente para la funcionalidad del bot
 No se comparten datos con terceros
 Los datos se almacenan temporalmente y se eliminan cuando ya no son necesarios
 
-##**7. Limitaciones de Responsabilidad**
+## **7. Limitaciones de Responsabilidad**
 
 PibardoBot se proporciona "tal cual" y no garantizamos:
 
@@ -125,7 +126,7 @@ Precisión absoluta en la moderación automática
 Preservación permanente de datos (niveles, configuraciones, etc.)
 Funcionamiento perfecto de todas las características en todo momento
 
-##**8. Modificaciones y Terminación**
+## **8. Modificaciones y Terminación**
 
 Nos reservamos el derecho de:
 
@@ -134,7 +135,7 @@ Actualizar estos términos sin previo aviso
 Suspender o terminar el servicio a usuarios o servidores específicos
 Implementar nuevas restricciones o límites según sea necesario
 
-##**9. Contacto y Soporte**
+## **9. Contacto y Soporte**
 
 Para soporte, reportes de bugs o consultas:
 
@@ -142,6 +143,6 @@ Utiliza nuestro servidor de soporte en Discord
 Reporta problemas a través de los canales oficiales
 Consulta la documentación actualizada en nuestro repositorio
 
-##**10. Aceptación**
+## **10. Aceptación**
 
 Al utilizar cualquier función de PibardoBot, aceptas cumplir con estos términos de servicio en su totalidad. El incumplimiento puede resultar en la restricción o terminación de tu acceso al bot.
