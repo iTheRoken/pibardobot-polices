@@ -1,75 +1,175 @@
-# **POLÍTICA DE PRIVACIDAD**
+# **POLÍTICA DE PRIVACIDAD DE PIBARDOBOT**
 
 ## **1. Introducción**
-En PibardoBot, valoramos tu privacidad y nos comprometemos a proteger tu información personal. Esta Política de Privacidad explica cómo recopilamos, utilizamos, almacenamos y protegemos tus datos cuando interactúas con nuestro bot. Al usar PibardoBot, aceptas las prácticas descritas en este documento.
+En PibardoBot, consideramos la privacidad y protección de datos como una prioridad fundamental. Esta Política de Privacidad detalla exhaustivamente cómo recopilamos, utilizamos, procesamos, almacenamos y protegemos tu información cuando interactúas con nuestro bot. Al utilizar PibardoBot, aceptas las prácticas y políticas descritas en este documento.
 
 ## **2. Información que Recopilamos**
 
 ### **2.1 Información de Usuario**
-Recopilamos información básica de Discord necesaria para el funcionamiento del bot, como:
-
-Tu ID de usuario de Discord.
-Tu nombre de usuario y discriminador (por ejemplo, Usuario#1234).
+Recopilamos la siguiente información básica de Discord necesaria para el funcionamiento del bot:
+- ID de usuario de Discord
+- Nombre de usuario y discriminador
+- Actividad en canales de voz
+- Niveles de experiencia y progreso
+- Advertencias y acciones de moderación
+- Historial de comandos utilizados
+- Roles asignados a través del sistema de roles por reacción
 
 ### **2.2 Información del Servidor**
+Cuando PibardoBot es agregado a un servidor, recopilamos:
+- ID del servidor
+- Nombre del servidor
+- Configuraciones específicas del servidor, incluyendo:
+  - Canal de logs designado
+  - Configuraciones de mensajes de bienvenida
+  - Configuración de protección contra enlaces
+  - Sistema de roles por reacción
+  - Configuración de logging de voz
+  - Niveles y experiencia de usuarios
 
-Cuando agregas y utilizas PibardoBot en un servidor, recopilamos:
+### **2.3 Datos de Mensajes y Comandos**
+Procesamos los siguientes datos relacionados con mensajes:
+- Contenido de mensajes para detección de spam y enlaces
+- Comandos ejecutados y sus parámetros
+- Mensajes eliminados (para fines de logging)
+- Reacciones a mensajes para el sistema de roles
+- Mensajes de bienvenida personalizados
+- Encuestas creadas y sus respuestas
+- Recordatorios configurados por usuarios
 
-El ID del servidor.
-El nombre del servidor.
-Configuraciones específicas relacionadas con la personalización del bot.
+### **2.4 Datos de Actividad en Voz**
+Monitoreamos y registramos:
+- Entrada y salida de canales de voz
+- Movimientos entre canales de voz
+- Tiempo de permanencia en canales de voz
+- Actividad relacionada con la reproducción de música
 
-### **2.3 Información de Comandos y Mensajes**
-
-Cuando interactúas con PibardoBot, procesamos:
-
-Los mensajes y comandos enviados al bot.
-Metadatos como marcas de tiempo y el canal de origen.
-
-### **2.4 Información de Terceros**
-
-PibardoBot utiliza servicios de terceros, como APIs de YouTube, para proporcionar funcionalidades como la reproducción de música. Al usar estos comandos, los datos transmitidos (como nombres de canciones o URLs) pueden ser procesados temporalmente por estos servicios.
+### **2.5 Información de Servicios de Terceros**
+Utilizamos servicios externos para ciertas funcionalidades:
+- YouTube: Para búsqueda y reproducción de música
+- APIs de Discord: Para funcionalidades core del bot
+- Servicios de streaming de audio
 
 ## **3. Uso de la Información**
 
-La información recopilada se utiliza para los siguientes fines:
+### **3.1 Propósitos Principales**
+La información recopilada se utiliza para:
+- Procesar y ejecutar comandos de usuarios
+- Mantener sistemas de niveles y experiencia
+- Gestionar roles automáticos
+- Proporcionar funciones de moderación
+- Mantener registros de actividad (logs)
+- Gestionar sistemas de música y entretenimiento
+- Implementar características de seguridad
 
-Provisión de Servicios: Procesar y ejecutar los comandos enviados por los usuarios.
-Mejora del Bot: Analizar el uso del bot para optimizar el rendimiento y desarrollar nuevas características.
-Seguridad: Prevenir abusos, identificar problemas técnicos y garantizar que el bot funcione de manera segura.
-Cumplimiento Legal: Cumplir con nuestras obligaciones legales, responder a solicitudes legales y prevenir actividades ilícitas.
+### **3.2 Funcionalidades Específicas**
+- Sistema de Niveles: Tracking de actividad y asignación de XP
+- Moderación: Gestión de advertencias y acciones disciplinarias
+- Logs: Registro de actividades importantes del servidor
+- Roles por Reacción: Asignación automática de roles
+- Sistema Anti-spam: Prevención de spam y contenido no deseado
+- Recordatorios: Gestión de recordatorios personalizados
 
-## **4. Retención de Datos**
+## **4. Almacenamiento y Retención de Datos**
 
-PibardoBot no almacena datos personales a largo plazo.
-Toda la información recopilada es procesada en tiempo real y eliminada inmediatamente una vez cumplido su propósito.
-No conservamos registros persistentes de mensajes, interacciones o configuraciones de los usuarios.
+### **4.1 Almacenamiento Temporal**
+- Datos de reproducción de música
+- Mensajes en caché para detección de spam
+- Información de comandos en proceso
+
+### **4.2 Almacenamiento Persistente**
+- Configuraciones de servidor
+- Niveles de usuario y experiencia
+- Advertencias y acciones de moderación
+- Roles por reacción configurados
+- Recordatorios programados
+
+### **4.3 Período de Retención**
+- Logs de servidor: 30 días
+- Datos de niveles: Mientras el bot permanezca en el servidor
+- Advertencias: 90 días
+- Configuraciones: Hasta que el bot sea removido del servidor
+- Recordatorios: Hasta su ejecución o cancelación
 
 ## **5. Seguridad de la Información**
 
-Nos comprometemos a proteger la información que recopilamos mediante:
+### **5.1 Medidas de Seguridad**
+Implementamos las siguientes medidas:
+- Encriptación de datos sensibles
+- Acceso restringido a las credenciales del bot
+- Monitoreo continuo de actividades sospechosas
+- Actualizaciones regulares de seguridad
+- Protección contra ataques DDoS
+- Sistema de prevención de spam
 
-El uso de entornos de desarrollo seguros.
-La implementación de medidas técnicas para prevenir el acceso no autorizado.
-La restricción del acceso a las credenciales del bot.
-Sin embargo, debes tener en cuenta que, debido a la naturaleza de Internet, no podemos garantizar una seguridad absoluta.
+### **5.2 Protección de Datos**
+- Aislamiento de datos por servidor
+- Backups regulares de configuraciones
+- Sanitización de inputs de usuario
+- Validación de permisos y roles
+- Logging de acciones administrativas
 
-## **6. Interacciones con Terceros**
+## **6. Derechos del Usuario**
 
-PibardoBot puede interactuar con servicios de terceros, como YouTube, para proporcionar ciertas funcionalidades (por ejemplo, reproducción de música). Aunque no compartimos directamente tu información con ellos, recomendamos que revises las políticas de privacidad de estas plataformas, ya que no somos responsables de cómo manejan tu información.
+### **6.1 Derechos Fundamentales**
+Los usuarios tienen derecho a:
+- Solicitar acceso a sus datos almacenados
+- Solicitar la eliminación de sus datos
+- Opt-out de sistemas específicos (niveles, logs)
+- Presentar quejas sobre el manejo de datos
+- Solicitar correcciones de información inexacta
 
-## **7. Derechos del Usuario**
+### **6.2 Ejercicio de Derechos**
+Para ejercer estos derechos:
+- Utiliza comandos específicos del bot
+- Contacta al equipo de soporte
+- Visita nuestro servidor de soporte
+- Envía una solicitud formal por los canales oficiales
 
-Como usuario de PibardoBot, tienes los siguientes derechos:
+## **7. Actualizaciones y Cambios**
 
-Acceso a tu Información: Puedes solicitar detalles sobre qué datos se recopilan al interactuar con el bot.
-Eliminación de Datos: Aunque no almacenamos datos a largo plazo, puedes solicitar que eliminemos cualquier información residual que podamos tener.
-Presentar Quejas: Si crees que tu privacidad ha sido comprometida, puedes contactarnos para resolver cualquier inquietud.
+### **7.1 Modificaciones a la Política**
+- Nos reservamos el derecho de actualizar esta política
+- Los cambios significativos serán notificados
+- Las actualizaciones entrarán en vigor inmediatamente
+- Se mantendrá un historial de cambios accesible
 
-## **8. Cambios a esta Política de Privacidad**
+### **7.2 Notificaciones**
+Los usuarios serán notificados de cambios mediante:
+- Anuncios en el servidor oficial
+- Mensajes en servidores donde el bot está presente
+- Actualizaciones en la documentación oficial
 
-Nos reservamos el derecho de actualizar esta Política de Privacidad en cualquier momento para reflejar cambios en nuestras prácticas, servicios o requerimientos legales. Te notificaremos sobre cambios significativos a través de nuestro servidor de soporte en Discord o mediante otros medios razonables.
+## **8. Contacto y Soporte**
 
-## **9. Contacto**
+### **8.1 Métodos de Contacto**
+Para consultas sobre privacidad:
+- Servidor oficial de Discord
+- Comando de ayuda del bot (!ayuda)
+- Documentación oficial
+- Correo de soporte (si está disponible)
 
+### **8.2 Tiempo de Respuesta**
+- Consultas generales: 24-48 horas
+- Problemas de privacidad: 24 horas
+- Solicitudes de eliminación de datos: 72 horas
+- Reportes de seguridad: Inmediato
+
+## **9. Cumplimiento Legal**
+
+### **9.1 Marco Legal**
+Cumplimos con:
+- Términos de Servicio de Discord
+- Leyes de protección de datos aplicables
+- Regulaciones de privacidad internacionales
+- Directrices de seguridad de datos
+
+### **9.2 Transparencia**
+Nos comprometemos a:
+- Mantener transparencia en el manejo de datos
+- Proporcionar informes regulares de seguridad
+- Notificar violaciones de seguridad
+- Cooperar con autoridades cuando sea requerido
+
+## **10 Contacto**
 Si tienes preguntas, inquietudes o comentarios sobre esta Política de Privacidad, puedes contactarnos a través del servidor oficial de soporte en Discord o utilizando los métodos de contacto proporcionados en nuestra documentación oficial.
